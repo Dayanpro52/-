@@ -1,0 +1,137 @@
+.text {
+            margin-left: 25px;
+        }
+
+        .HButton{
+            background-color:  rgb(243, 243, 243);
+            margin: 10px;
+            padding: 10px;
+            border: none;
+            border-radius: 25px;
+            color: black;
+        }
+        #logo{
+            width: 150px;
+            height: 90px;
+            border: none;
+            border-radius: 25px;
+        }
+
+        .whiteborder {
+            background-color: white;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 20px;
+            width: 600px;
+        }
+        .whiteborder h2 {
+            margin-top: 5px;
+        }
+        .whiteborder ul {
+            display: flex;
+            gap: 15px;
+            list-style: none;
+            padding: 10px;
+        }
+        .whiteborderH {
+            background-color: rgb(232, 213, 250);
+            padding: 15px;
+            /* margin-left: 20px;
+            margin-right: 20px; */
+            margin-bottom: 10px;
+            border-radius: 20px;
+            width: 640px;
+        }
+        .whiteborderH h2 {
+            margin-top: 5px;
+        }
+        .whiteborderH ul {
+            display: flex;
+            gap: 15px;
+            list-style: none;
+            padding: 10px;
+        }
+
+        h3{
+            margin-top: 5px;
+        }
+        body {
+            background-color: rgb(207, 183, 226);
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+
+        .week{
+            height: 30px;
+            border-radius: 15px;
+            color: rgb(61, 61, 61);
+            background-color: rgb(236, 236, 236);
+            border: none;
+            font-size: 20px;
+        }
+         .week:focus {
+            background-color: rgb(214, 214, 214);}
+
+        .Gbuttons{
+            color: rgb(48, 48, 48);
+            background-color: rgb(165, 165, 165);
+            margin-top: 15px;
+            margin-bottom: 15px;
+            padding:8px;
+            border: none;
+            border-radius: 15px;  
+        }
+        .divGbutton{
+            display: flex;
+            flex-direction: column;
+            width:30%;
+        }
+        .divGbuttonContainer{
+            display: flex;
+            align-items: flex-end;
+            justify-content: flex-end;
+        }
+
+        .popopo{
+            /* height: 20px; */
+            color: rgb(48, 48, 48);
+            background-color: rgb(177, 177, 177);
+            font-size: 16px;
+            border: none;
+            margin-left: 15px;
+            margin-right: 15px;
+            padding: 10px;
+            border: none;
+            border-radius: 25px;
+            /* width: 150px; */
+        }
+        .containerPopopo{
+            color: rgb(71, 71, 71);
+            background-color: rgb(165, 165, 165);
+            align-items: center;
+            justify-content: center;
+            margin-left: 10px;
+            margin-right: 10px;
+            display: flex;
+            border-radius: 15px;
+            border: none;
+        }
+        .popopo:focus {
+            background-color: rgb(230, 230, 230);
+        }
+
+        #Claim{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: none;
+            border-radius: 25px;
+            background-color:  rgb(207, 183, 226);
+            font-size: 16px;
+            padding: 10px;
+        }
+        #day{
+            width: 50px;
+            height: 50px;
+            display: flex;
+            float: left;
+        }
