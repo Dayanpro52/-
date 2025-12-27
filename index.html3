@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habix.co</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+     <header>
+        <div class="whiteborderH">
+        <img id="logo" src="c:\Users\user\Desktop\logo.jpg" alt="">
+        <ul>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/main.html">Главная</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/statisticts.html">Статистика</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/archive.html">Архив</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/rewards.html">Награды</a></li>
+        </ul>
+        </div>
+    </header>
+
+    <h1 class="text">Награды</h1>
+    #уровень
+
+    <h2 class="text">Ежедневные награды</h2>
+    <div class="whiteborder">
+        <img id="day" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdb8aa1D480ZslzxwF9_k5ytFjLTrDsGfgw&s" alt="">
+        <h3>Ежедневная награда за серию</h3>
+        <button id="Claim">Claim</button>
+    </div>
+
+    <h2 class="text">Еженедельные награды</h2>
+    <div class="whiteborder">
+        <h3>Еженедельный вызов</h3>
+        #Статистика
+    </div>
+
+    <h2 class="text">Особые достижения</h2>
+    #пока нет достижений
+</body>
+</html>
