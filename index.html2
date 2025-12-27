@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habix.co</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+     <header>
+        <div class="whiteborderH">
+        <img id="logo" src="c:\Users\user\Desktop\logo.jpg" alt="">
+        <ul>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/main.html">Главная</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/statisticts.html">Статистика</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/archive.html">Архив</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/rewards.html">Награды</a></li>
+        </ul>
+        </div>
+    </header>
+
+
+    <div class="whiteborder">
+        <div class="divGbuttonContainer">
+            <div class="divGbutton">
+                <button class ="Gbuttons">Очистить архив</button>
+                <button class ="Gbuttons">Выбрать</button>
+            </div>
+        </div>
+
+        <div class="text">
+        <h1>Архив привычек</h1>
+        <p>посмотри что ты уже завершил</p>
+        </div>
+
+    <div class="containerPopopo">
+    <nav>
+        <ul>
+            <li><button class="popopo">по дате</button></li>
+            <li><button class="popopo">по важности</button></li>
+            <li><button class="popopo">по завершению</button></li>
+        </ul>
+    </nav>
+    </div>
+        #статистика
+    </div>
+</body>
+</html>
