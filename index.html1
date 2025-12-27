@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habix.co</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body> 
+    <header>
+        <div class="whiteborderH">
+        <img id="logo" src="c:\Users\user\Desktop\logo.jpg" alt="">
+        <ul>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/main.html">Главная</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/statisticts.html">Статистика</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/archive.html">Архив</a></li>
+            <li><a class="HButton" href="file:///C:/Users/user/Desktop/kahaton/rewards.html">Награды</a></li>
+        </ul>
+        </div>
+    </header>
+
+
+    <main>
+        <div class="text">
+        <h1>Статистика</h1>
+        <p>Анализ твоих привычек</p>
+    </div>
+    <div class="whiteborder">
+         <h2 >Прогресс за неделю</h2>
+         #статистика
+    <div >
+    <nav>
+        <ul>
+            <li><button class="week">ПН</button></li>
+            <li><button class="week">ВТ</button></li>
+            <li><button class="week">СР</button></li>
+            <li><button class="week">ЧТ</button></li>
+            <li><button class="week">ПТ</button></li>
+            <li><button class="week">СБ</button></li>
+            <li><button class="week">ВС</button></li>
+        </ul>
+    </nav>
+    </div>
+
+
+    </div>
+    <div class="whiteborder">
+        <h2 >Активность за месяц</h2>
+        #Статистика
+    </div>
+
+    
+    <div class="whiteborder">
+        #Статистика
+    </div>
+
+
+    
+     <div class="whiteborder">
+        <h2>Твои лутшие привычки</h2>
+        #Статистика
+     </div>
+    </main>
+
+</body>
+</html>
